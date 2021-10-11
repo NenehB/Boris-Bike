@@ -5,5 +5,6 @@ describe  DockingStation do
     docking_station = DockingStation.new
     expect(docking_station.release_bike).to eq true
 end 
+ 
 end 
 
