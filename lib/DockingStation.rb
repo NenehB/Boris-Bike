@@ -1,7 +1,7 @@
 
 class DockingStation
 
-def name 
+def release_bike
  true 
 end 
 
